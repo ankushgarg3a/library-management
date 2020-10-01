@@ -68,7 +68,6 @@ public class Forgot extends javax.swing.JFrame {
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
-
         jPanel4 = new javax.swing.JPanel();
         jLabel13 = new javax.swing.JLabel();
         jLabel21 = new javax.swing.JLabel();
@@ -127,6 +126,9 @@ public class Forgot extends javax.swing.JFrame {
         jTextField3.setEditable(false);
         jTextField3.setBackground(new java.awt.Color(34, 62, 74));
         jTextField3.setBorder(null);
+          jPanel1.setBackground(new java.awt.Color(34, 62, 74));
+jPanel1.setBackground(new java.awt.Color(34, 62, 74));
+jPanel1.setBackground(new java.awt.Color(34, 62, 74));
 
         jTextField4.setBackground(new java.awt.Color(34, 62, 74));
         jTextField4.setBorder(null);
@@ -196,6 +198,14 @@ public class Forgot extends javax.swing.JFrame {
                 jTextField2ActionPerformed(evt);
             }
         });
+
+        jLabel23.setFont(new java.awt.Font("Ubuntu", 0, 20)); // NOI18N
+        jLabel23.setForeground(new java.awt.Color(254, 254, 254));
+        jLabel23.setText("New Account");
+
+        jLabel23.setFont(new java.awt.Font("Ubuntu", 0, 20)); // NOI18N
+        jLabel23.setForeground(new java.awt.Color(254, 254, 254));
+        jLabel23.setText("New Account");
 
         jLabel23.setFont(new java.awt.Font("Ubuntu", 0, 20)); // NOI18N
         jLabel23.setForeground(new java.awt.Color(254, 254, 254));
